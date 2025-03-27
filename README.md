@@ -1,8 +1,13 @@
-<p align="left">Bem vindo ao meu perfil</p>
+<p align="left">👋 Olá, seja bem-vindo(a) ao meu perfil!</p>
 
 ###
 
-<p align="left">Descrição</p>
+<p align="left">
+💻 Estudante de C# e UX Design, apaixonada por tecnologia e inovação. Atualmente, estou me aprofundando no desenvolvimento de sistemas e explorando novas soluções para otimizar processos.
+
+🚀 Foco em desenvolvimento full stack, com interesse especial em back-end e banco de dados.
+
+📚 Sempre buscando aprender e crescer na área de tecnologia, colaborando com projetos e compartilhando conhecimento.</p>
 
 ###
 
