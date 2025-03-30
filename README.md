@@ -3,9 +3,7 @@
 ###
 
 <p align="left">
-💻 Estudante de C# e UX Design, apaixonada por tecnologia e inovação. Atualmente, estou me aprofundando no desenvolvimento de sistemas e explorando novas soluções para otimizar processos.
-
-🚀 Foco em desenvolvimento full stack, com interesse especial em back-end e banco de dados.
+💻 Sou estudante de C# e UX Design, apaixonada por tecnologia e inovação. Atualmente, estou me aprofundando no desenvolvimento de sistemas e explorando novas soluções para otimizar processos.
 
 📚 Sempre buscando aprender e crescer na área de tecnologia, colaborando com projetos e compartilhando conhecimento.</p>
 
